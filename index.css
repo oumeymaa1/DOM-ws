@@ -1,0 +1,20 @@
+.card img {
+   height: 300px; 
+   width: 300px;
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    /*justify-content: space-around;*/
+margin: 2% 2%;
+}
+.navbar-text {
+    color: #0d6efd;
+    display: block;
+    padding: .5rem 1rem;  
+    text-decoration: none;
+}
+.card-body {
+    display:block;
+   /* justify-content: ;*/
+}
